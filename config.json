@@ -1,0 +1,7 @@
+{
+    "browser": "chrome",
+    "headless_mode": false,
+    "base_url": "https://en.wikipedia.org/wiki/Main_Page",
+    "api_endpoint": "http://en.wikipedia.org/w/api.php",
+    "timeout": 10
+  }
